@@ -50,6 +50,14 @@ streamlit run app.py
 ## 🤝 Contributing
 Contributions are welcome! If you have ideas for new features or improvements, feel free to open an issue or submit a PR.
 
+ ## ✍️ Author & Credits
+
+- **Developed by:** Disha Polamarasetti
+- **Role:** Data Science Student |Web Development, AI & ML Enthusiast
+- **Objective**:To build a lightweight, open-source fashion aggregator engine that unifies product discovery and price comparison across India's top clothing brands
+- **Contact:**[GitHub](https://github.com/dpolamar-eng) | [LinkedIn Profile](https://www.linkedin.com/in/disha-pol)
+
+
 ## 📝 License
 MIT License - feel free to use this for your own portfolio!
 
