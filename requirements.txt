@@ -1,0 +1,10 @@
+streamlit
+spacy
+pandas
+pdfminer.six
+docx2txt
+fpdf2
+matplotlib
+seaborn
+plotly
+
