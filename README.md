@@ -54,7 +54,7 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 
 - **Developed by:** Disha Polamarasetti
 - **Role:** Data Science Student |Web Development, AI & ML Enthusiast
-- **Objective**:To build a lightweight, open-source fashion aggregator engine that unifies product discovery and price comparison across India's top clothing brands
+- **Objective**:This tool helps students align their resumes with job requirements by highlighting missing keywords and calculating a match score. It also generates professional, ATS-friendly PDF resumes and provides custom interview questions to help users prepare for their target roles.
 - **Contact:**[GitHub](https://github.com/dpolamar-eng) | [LinkedIn Profile](https://www.linkedin.com/in/disha-pol)
 
 
